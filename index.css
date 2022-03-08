@@ -54,6 +54,7 @@ label{
     display: block;
     color: white;
     padding-bottom: 1em;
+    font-weight: bold;
 }
 
 input{
